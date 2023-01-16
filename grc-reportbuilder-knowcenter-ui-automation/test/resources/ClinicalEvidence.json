@@ -1,0 +1,27 @@
+{
+    "LiteratureSearchDescription": "Searches of the PubMed database performed on March 18, 2022 without limits identified 26 records. Upon review of titles and abstracts, 5 were selected for inclusion. Abstracts were selected for inclusion if they were clinical studies or systematic reviews evaluating Bonalive and had n>10 patients per group.",
+    "LiteratureSearchDetails": {
+        "Database": "PubMed",
+        "Date": "Today-7",
+        "Yield": 26,
+        "Selected": 5,
+        "Rationale": "Proprietary term for technology",
+        "Terms": "Proprietary term for technology",
+        "Limits": "None"
+    },
+    "PublishedClinicalStudyDescription": "Studies that combined the Bonalive granules with other interventions (e.g., bone marrow aspirate concentrates; antibiotics) were excluded as the results reported in the abstracts could not singularly be attributed to the use of Bonalive. Abstracts that failed to specifically identify Bonalive as the S53P4 product were likewise excluded.",
+    "PublishedStudies": {
+        "ComparisonTechnology": "Biological hydroxyapatite (Bio-Oss®) ",
+        "Citation": "Sahli-Vivicorsi et al., 2022",
+        "HayesTypeofEvidence": "Type II"
+    },
+    "OngoingClinicalStudyDescription": "Searches of the  ClinicalTrials.gov database performed on March 18, 2022, using search term Bonalive identified 4 relevant active trials.",
+    "OngoingStudies": {
+        "TCTNumber": "NCT05049915",
+        "Title": "Evaluation of the Clinical Effectiveness of Bioactive Glass (S53P4) in the Treatment of Tibia and Femur Non-unions",
+        "Conditions": "Pseudoarthrosis of Bone",
+        "Interventions": "Device: bioglass (S53P4) Device: RIA [reaming irrigation aspirator] and TCP [tricalcium phosphate]",
+        "Design": "Randomized, parallel assignment",
+        "HayesTypeofEvidence": "Type I"
+    }
+}

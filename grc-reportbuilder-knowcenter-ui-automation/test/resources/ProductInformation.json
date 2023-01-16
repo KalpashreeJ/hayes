@@ -1,0 +1,12 @@
+{
+    "Summary": {
+        "PublicSummary": "The purpose of this Hayes Product Snapshot is to provide information including product features, regulatory status, safety concerns, and clinical study abstracts related to Bonalive Orthopedic Granules (Bonalive Medical LTD) for filling bone voids.",
+        "PrivateSummary": "The purpose of this Hayes Product Snapshot is to provide information including product features, regulatory status, safety concerns, and clinical study abstracts related to Bonalive Orthopedic Granules (Bonalive Medical LTD) for filling bone voids.",
+        "TechnologyDescription": "Bonalive granules are composed of calcium-phosphorous-sodium-silicate (glass S53P4) granules with antimicrobial properties that can be used as a bone graft substitute to fill bone voids and gaps."
+    },
+    "ProductChecklist": {
+        "ClinicalEvidenceComentary": "Abstracts from 5 citations were retrieved including 2 systematic reviews, 1 comparative study (Hayes Type II evidence) and 2 uncontrolled studies (Hayes Type III evidence). Abstracts were included if they specifically evaluated a Bonalive product and had a sample size >10.",
+        "RegulatoryStatusComentary": "Bonalive Granules have received clearance for marketing in the United States through the Food and Drug Administration's Premarket Notification Process. The most recent clearance , K191274, was granted on August 7, 2019.",
+        "SafetyConcernsComentary": "Three MAUDE events were identified related to Bonalive Granules in a search on March 18, 2022. All were injuries (Infection, swelling, graft migration).  "
+    }
+}

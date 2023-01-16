@@ -1,0 +1,11 @@
+{
+    "Staging": {
+        "url": "https://staging.dev.nonprod.hayes.tractsoft.io/"
+    },
+    "Production": {
+        "url": "https://production.dev.nonprod.hayes.tractsoft.io/"
+    },
+    "Preview": {
+        "url": "https://preview.dev.nonprod.hayes.tractsoft.io/"
+    }
+}

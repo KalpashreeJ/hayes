@@ -1,0 +1,21 @@
+{
+    "PublicationDetails": {
+        "PublicationDate": "Today-5",
+        "PublicationStatus": "Published",
+        "ArchivedDate": "Today-4",
+        "ArchivedReason": "Progress to GTE",
+        "AmendedDate": "Today-3",
+        "AmendedReason": "GREEN",
+        "UpdatedDate": "Today-2"
+    },
+    "Taxonomy": {
+        "PatientAge": "All",
+        "PatientGender": "All",
+        "MedicalSpeciality": "Oncology",
+        "TechnologyApplication": "Therapeutic",
+        "DeviceType": "Professional Medical Devices",
+        "LevelOfCare": "Outpatient Surgical",
+        "MarketSegment": "Provider",
+        "Keywords": "bioactive glass, Bonalive, bone graft,  bony void, cavity, osteomyelitis, osteostimulant, S53P4, test"
+    }
+}

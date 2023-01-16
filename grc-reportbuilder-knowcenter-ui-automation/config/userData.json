@@ -1,0 +1,10 @@
+{
+    "admin1": {
+        "userName": "alt-test-automation@symplr.com",
+        "password": "symplTesting1234!"
+    },
+    "admin2": {
+        "userName": "test-automation@symplr.com",
+        "password": "TestPassword1234!"
+    }
+}

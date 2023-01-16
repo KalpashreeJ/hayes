@@ -1,0 +1,8 @@
+node_modules
+reports/allure-report/
+reports/allure-results/
+reports/video-recordings/
+logs
+.vscode
+package-lock.json
+_results_
